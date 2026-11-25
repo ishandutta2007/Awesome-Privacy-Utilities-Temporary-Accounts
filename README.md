@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Privacy-Utilities-Temporary-Accounts/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Privacy-Utilities-Temporary-Accounts?style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Privacy-Utilities-Temporary-Accounts/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Privacy-Utilities-Temporary-Accounts?style=social" alt="GitHub_Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Privacy-Utilities-Temporary-Accounts/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Privacy-Utilities-Temporary-Accounts?style=social" alt="GitHub Forks"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Privacy-Utilities-Temporary-Accounts/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Privacy-Utilities-Temporary-Accounts?color=blue" alt="License"></a>
@@ -73,9 +73,9 @@ The table below benchmarks commercial SaaS solutions for disposable inboxes, ema
 
 Explore the leading self-hosted email alias engines, disposable SMTP daemons, testing inboxes, and network privacy shields 💻✨. 
 
-Ranked in descending order by **GitHub Star Count**:
+Ranked in descending order by **GitHub Stars_Count**:
 
-| Repository & Link | GitHub Stars | Technology / Stack | Description & Privacy Architecture |
+| Repository & Link | GitHub_Stars | Technology / Stack | Description & Privacy Architecture |
 | :--- | :--- | :--- | :--- |
 | **[pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)** | [![Stars](https://img.shields.io/github/stars/pi-hole/pi-hole?style=social&color=white)](https://github.com/pi-hole/pi-hole/stargazers) | C / Shell / Docker | Network-wide tracker and telemetry blocker preventing tracking pixels in forwarded emails and masking client traffic 🕳️. |
 | **[AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)** | [![Stars](https://img.shields.io/github/stars/AdguardTeam/AdGuardHome?style=social&color=white)](https://github.com/AdguardTeam/AdGuardHome/stargazers) | Go / TypeScript | Network-wide DNS sinkhole and ad/tracker-blocking proxy that eliminates email tracker webhooks across all local instances 🛡️. |
@@ -131,7 +131,7 @@ Contributions are warmly welcomed! Help keep this privacy resource accurate and 
 1. **Fork the repository** to your personal GitHub account 🍴.
 2. **Add or update an entry** in `README.md`. Ensure that:
    - SaaS entries include precise pricing numbers, strict free tier limits, and updated valuation/revenue metrics.
-   - Open-source projects include official repository URLs and the standardized star badge format (`https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white`).
+   - Open-source projects include official repository URLs and the standardized Stars_Badge format (`https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white`).
 3. **Submit a Pull Request** with a brief rationale of the changes 🎉.
 
 ---
